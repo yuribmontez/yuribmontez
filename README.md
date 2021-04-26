@@ -1,6 +1,6 @@
 # 👋 Olá, sou Yuri  [<img alt="LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/yuri-bruno-montez/)
 
-## Apaixonado por tecnologia 💻, artes 🎬, criatividade💡, video-games 🎮 e café ☕
+- Apaixonado por tecnologia 💻, artes 🎬, criatividade💡, video-games 🎮 e café ☕
 - 👯Estou em busca de projetos
 
 - Atualmente estou estudando um pouco de tudo 😂
