@@ -1,9 +1,20 @@
-# 👋 Olá, sou Yuri  [<img alt="LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/yuri-bruno-montez/)
+<img style="margin-top: 40px;" align="right" width="400px" src="https://media.giphy.com/media/XFuQ4InwtXBE4DDPHM/giphy.gif">
 
-- Apaixonado por tecnologia 💻, artes 🎬, criatividade💡, video-games 🎮 e café ☕
-- 👯Estou em busca de projetos
+# Heeeey guys! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" />
 
-- Atualmente estou estudando um pouco de tudo 😂
+Me chamo Yuri, sou formado em Análise e Desenvolvimento de Sistemas e sou apaixonado por tecnologia 💻, artes 🎬, criatividade💡, video-games 🎮 e café ☕
+<br>
+
+Você pode me encontrar no
+<a href="https://www.linkedin.com/in/yuri-bruno-montez/">
+  <img src = "https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt = "Perfil no Linkedin" height = "20" width = "20">
+</a>
+
+## Atualmente estou
+
+- Em busca de projetos 👯
+
+- Estudando um pouco de tudo 😂
 
 ## Linguagens e ferramentas
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
