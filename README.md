@@ -12,9 +12,9 @@ Você pode me encontrar no
 
 ## Atualmente estou
 
-- Em busca de projetos 👯
-
-- Estudando um pouco de tudo 😂
+- Planejando alguns projetos 👀
+- Trabalhando 💪
+- Estudando React 📚
 
 ## Linguagens e ferramentas
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
