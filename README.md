@@ -54,13 +54,8 @@ I'm a frontend developer with a degree in systems analysis and development, pass
 
 <img align="left" alt="docker" width="30px" style="margin: 0px 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 
-[![Spotify](https://yuribmontez.vercel.app/api/spotify)](https://open.spotify.com/user/champozo)
 
-
-
-
-
-
+[![Spotify](https://novatorem-jgg2tsbtz-yuribmontez.vercel.app/api/spotify)](https://open.spotify.com/user/champozo)
 
 
 
