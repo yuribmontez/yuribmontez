@@ -1,8 +1,8 @@
 <img style="margin-top: 40px;" align="right" width="400px" src="https://media.giphy.com/media/XFuQ4InwtXBE4DDPHM/giphy.gif">
 
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" />
-## About
-Frontend developer with a degree in systems analysis and development, passionate about 💻tech, 🎬art, 🎮video-games & ☕coffee
+
+I'm a frontend developer with a degree in systems analysis and development, passionate about 💻tech, 🎬art, 🎮video-games & ☕coffee
 <br>
 
 ### Find me at:
