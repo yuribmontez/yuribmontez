@@ -55,11 +55,6 @@ I'm a frontend developer with a degree in systems analysis and development, pass
 <img align="left" alt="docker" width="30px" style="margin: 0px 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 
 
-[![Spotify](https://novatorem-jgg2tsbtz-yuribmontez.vercel.app/api/spotify)](https://open.spotify.com/user/champozo)
-
-
-
-
 <!---
 yuribmontez/yuribmontez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
