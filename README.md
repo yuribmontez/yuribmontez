@@ -52,9 +52,10 @@ I'm a frontend developer with a degree in systems analysis and development, pass
 
 <img align="left" alt="gitlab" width="30px" style="margin: 0px 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain-wordmark.svg" />
 
-<img align="left" alt="docker" width="30px" style="margin: 0px 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+<img align="left" alt="docker" width="30px" style="margin: 0px 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /> 
+<br><br>
 
-### 🎧 Listening 
+## Listening 
 
 [![Spotify](https://novatorem-cnd19eeo7-yuribmontez.vercel.app/api/spotify)](https://open.spotify.com/user/yuribmontez)
 <!---
