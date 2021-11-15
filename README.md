@@ -2,7 +2,7 @@
 
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" />
 
-I'm a frontend developer with a degree in systems analysis and development, passionate about 💻tech, 🎬art, 🎮video-games & ☕coffee
+I'm a software engineer mainly focused on frontend with a degree in systems analysis and development, passionate about 💻tech, 🎬art, 🎮video-games & ☕coffee
 <br>
 
 ### Find me at:
